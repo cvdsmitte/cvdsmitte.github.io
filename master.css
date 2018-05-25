@@ -1,0 +1,66 @@
+
+
+body {
+    background-image: url("background.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 100%;
+    background-blend-mode: lighten;
+    margin: 6px;
+}
+
+
+#overlay {
+    background: white;
+
+}
+
+
+
+
+
+.answers {
+    margin-top: 60px;
+    margin-right:300px;
+    margin-left: 600px;
+    border: black;
+    border-style: dotted;
+    background-color: white;
+  }
+
+
+
+  .input {
+
+    display: inline-block;
+    margin-left: 10px;
+
+  }
+
+  label {
+    float: left;
+    width: 100px;
+      }
+
+div {
+    margin: 20px;
+    padding-bottom: 1px;
+}
+
+.Checkbox {
+    margin-left: 20px;
+    margin-top: 70px;
+}
+
+#submit {
+    margin-left: 100px;
+    }
+
+#invoer {
+    margin-top: 4px;
+    margin-bottom: 20px;
+}
+
+.veld {
+
+}
