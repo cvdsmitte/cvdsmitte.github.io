@@ -1,0 +1,169 @@
+
+
+body {
+    background-image: url("background.JPG");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 100%;
+    background-blend-mode: lighten;
+    margin: 4px;
+}
+
+profile {
+    padding-top: 7px;
+    
+}
+
+h1 {
+    background-position: 50% 50%;
+    background-color: powderblue;
+    text-align: center;
+    border: 1px solid black; 
+    outline: #0099ff solid 8px;
+    outline-style: groove;
+    margin-top: 100px;
+    margin-right:575px;
+    margin-left: 575px;
+    margin-bottom: 20px;
+    padding: 7px;
+}
+
+th, td {
+    border: 1px solid black;
+    outline: #0099ff solid 5px;
+    outline-style: groove;   
+    padding: 8px;
+    text-align: center;
+    height: 60px;
+    width: 40%;
+    background-color: powderblue;
+     }
+
+header {
+    background-color: powderblue;
+    border: 1px solid black;
+    outline: #0099ff solid 7px;
+    outline-style: groove;
+   
+  }
+
+p {
+    border: 1px solid black;
+    outline: #0099ff solid 7px;
+    outline-style: groove;
+    margin-left: 250px;
+    margin-right: 250px;   
+    padding: 8px;
+    text-align: center;
+    height: auto;
+    background-color: powderblue;
+}
+
+.work {
+    background-position: 50% 50%;
+    background-color: powderblue;
+    text-align: center;
+    border: 1px solid black; 
+    outline: #0099ff solid 8px;
+    outline-style: groove;
+    margin-top: 200px;
+    margin-right:625px;
+    margin-left: 625px;
+    margin-bottom: 150px;
+    padding: 7px;
+}
+.skill {
+    background-position: 50% 50%;
+    background-color: powderblue;
+    text-align: center;
+    border: 1px solid black; 
+    outline: #0099ff solid 8px;
+    outline-style: groove;
+    margin-top: 200px;
+    margin-right:625px;
+    margin-left: 625px;
+    margin-bottom: 150px;
+    padding: 7px;
+}
+.education {
+    background-position: 50% 50%;
+    background-color: powderblue;
+    text-align: center;
+    border: 1px solid black; 
+    outline: #0099ff solid 8px;
+    outline-style: groove;
+    margin-top: 200px;
+    margin-right:500px;
+    margin-left: 500px;
+    margin-bottom: 150px;
+    padding:2px;
+}
+
+.table {
+    margin-top: 100px;
+    margin-right:480px;
+    margin-left: 520px;
+    
+}    
+.table2 {
+   margin-left: 250px;
+   margin-right: 250px;
+}
+
+.table3 {
+   margin-left: 250px;
+   margin-right: 250px;
+   margin-bottom: 80px;
+}
+    
+.table4 {
+   margin: 30px;
+  }
+
+.img {
+    height: 240px;
+    width: 160;
+    float: left;
+    border: 1px solid black;
+    outline: #0099ff solid 7px;
+    outline-style: groove;
+    margin: 30px;
+    margin-bottom: 25px;
+    }
+
+.page{ 
+    margin-top: 150px; 
+}
+
+.contact {
+    margin-top: 100px;
+    margin: 30px;
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: purple;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: purple;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+#overlay {
+    background: white;
+
+}
+
+
